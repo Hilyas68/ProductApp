@@ -1,5 +1,5 @@
 # ProductApp
 
 It uses:
-.Ropository Pattern
-.Consumes a custom WebAPI
+Ropository Pattern and also
+consumes a custom WebAPI
